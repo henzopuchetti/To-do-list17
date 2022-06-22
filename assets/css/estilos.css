@@ -1,0 +1,23 @@
+
+input,i{
+    margin-bottom: 10px;
+}
+textarea{
+    resize: none;
+}
+label{
+    margin-top: 10px;
+}
+.logoff{
+    position: fixed;
+    cursor: pointer;
+}
+
+.btn-dark{
+    background-color: blueviolet;
+}
+
+.text-bg-info{
+    background-image: linear-gradient(135deg, blueviolet, midnightblue, #0000cb);
+}
+
